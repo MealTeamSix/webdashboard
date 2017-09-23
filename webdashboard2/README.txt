@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/jigarbpatel/pen/yzVegV.
+This is a web dashboard that displays data received from a kiosk
 
  
